@@ -3,7 +3,11 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/4771112123
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771112123
 80#VERS#LINKS####: https://www.almeshkat.net/book/457
-90#VERS#COMMENT##: 1- The second-level headers are sections of the book (they don’t have any title in the text; so, I put blank headers). The book also contains an appendix at the end which has been added from two manuscripts. 2- The book contains a lot of names that cannot be tagged structurally since they are inside the lines without any number or sign.
 90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The second-level headers are sections of the book
+    (they don’t have any title in the text; so, I put blank headers). The
+    book also contains an appendix at the end which has been added from two
+    manuscripts. 2- The book contains a lot of names that cannot be tagged
+    structurally since they are inside the lines without any number or sign.
 90#VERS#DATE#####: 2019-10-24
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
