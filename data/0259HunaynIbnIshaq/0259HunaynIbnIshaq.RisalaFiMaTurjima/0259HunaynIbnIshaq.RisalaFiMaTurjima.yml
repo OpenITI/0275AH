@@ -1,7 +1,8 @@
 00#BOOK#URI######: 0259HunaynIbnIshaq.RisalaFiMaTurjima
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Risālaŧ Ḥunayn ibn Isḥāq ilā ʿAlī b. Yaḥyā fī dhikr mā turjima min kutub Jālīnūs bi-ʿilmihi wa-baʿḍ mā lam yutarjam
-10#BOOK#TITLEB#AR: 
+10#BOOK#TITLEA#AR: Risālaŧ Ḥunayn ibn Isḥāq ilā ʿAlī b. Yaḥyā fī dhikr
+    mā turjima min kutub Jālīnūs bi-ʿilmihi wa-baʿḍ mā lam yutarjam
+10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
@@ -13,4 +14,5 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: Graeco-Arabic-studies.org ascribes the translation to "al-Biṭrīq?".
+90#BOOK#COMMENT##: Graeco-Arabic-studies.org ascribes the translation to
+    "al-Biṭrīq?".
