@@ -1,10 +1,11 @@
 00#AUTH#URI######: 0275Ustath
-10#AUTH#ISM####AR: Usṭāth
+10#AUTH#ISM####AR: Usṭāṯ
 10#AUTH#KUNYA##AR:
 10#AUTH#LAQAB##AR:
 10#AUTH#NASAB##AR:
 10#AUTH#NISBA##AR:
-10#AUTH#SHUHRA#AR: Usṭāth (Eustathius)
+10#AUTH#SHUHRA#AR: Usṭāṯ (Eustathius)
+10#AUTH#SHUHRA#EN: Usṭāth (Eustathius)
 20#AUTH#BORN#####: URIs from Althurayya, comma separated
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
