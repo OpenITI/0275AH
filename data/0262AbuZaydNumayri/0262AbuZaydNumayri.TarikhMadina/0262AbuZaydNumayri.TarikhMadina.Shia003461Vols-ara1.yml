@@ -12,8 +12,8 @@
     the first type of headers are too general and are mostly irrelevant to
     their contents. So, the editor has added a kind of conceptual headers to
     show the beginning of a new subject. I have tagged all the first type
-    headers (the ones that appear in the original manuscript) as second-level
-    headers and all the second type headers (the ones that have been
+    headers (the ones that appear in the original manuscript) as second-
+    level headers and all the second type headers (the ones that have been
     added by the editor) as third-level headers (which are just headers
     without any text, since annotators are not allowed to add anything to
     the text). Tagging these third-level headers was extremely difficult.
