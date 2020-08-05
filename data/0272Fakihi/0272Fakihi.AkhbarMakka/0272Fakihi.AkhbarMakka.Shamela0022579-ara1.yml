@@ -3,8 +3,8 @@
 00#VERS#URI######: 0272Fakihi.AkhbarMakka.Shamela0022579-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/48957183
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/48957183
-80#VERS#LINKS####: https://waqfeya.com/book.php?bid=2877
-90#VERS#ANNOTATOR: HRH
+80#VERS#LINKS####: https://archive.org/details/waq10151
+90#VERS#ANNOTATOR: HRH, GVDB
 90#VERS#COMMENT##: In most places, dots are either removed or replaced
     by another punctuation mark (“ or ,). There are few mistakes in Editpad
     Pro version: some numbers in the text are wrong (V01P353, N. 732;
@@ -19,5 +19,6 @@
     by the editor in which he has collected the missing parts of the first
     section of the book. I showed the beginning of this part by a blank
     first-level header.
+	GVDB: deleted redundant part noted. Untagged all headings of the appendix and changed HRH's empty header into an editorial one. Corrected the wrong numbers noted. Deleted footnote markers. 
 90#VERS#DATE#####: 2019-08-02
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, MANY_TYPOS, REDUNDANT_PARTS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, MANY_TYPOS
