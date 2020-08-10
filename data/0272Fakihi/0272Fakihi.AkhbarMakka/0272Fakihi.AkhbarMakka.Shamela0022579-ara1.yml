@@ -5,7 +5,7 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/48957183
 80#VERS#LINKS####: https://archive.org/details/waq10151
 90#VERS#ANNOTATOR: HRH, GVDB
-90#VERS#COMMENT##: In most places, dots are either removed or replaced
+90#VERS#COMMENT##: HRH: In most places, dots are either removed or replaced
     by another punctuation mark (“ or ,). There are few mistakes in Editpad
     Pro version: some numbers in the text are wrong (V01P353, N. 732;
     V01P416, N 900; V02P094, N 1194; V02P307, N. 1554; V03P036, N. 1745) and
@@ -19,6 +19,6 @@
     by the editor in which he has collected the missing parts of the first
     section of the book. I showed the beginning of this part by a blank
     first-level header.
-	GVDB: deleted redundant part noted. Untagged all headings of the appendix and changed HRH's empty header into an editorial one. Corrected the wrong numbers noted. Deleted footnote markers. 
+ GVDB: deleted redundant part noted. Untagged all headings of the appendix and changed HRH's empty header into an editorial one. Corrected the wrong numbers noted. Deleted footnote markers. 
 90#VERS#DATE#####: 2019-08-02
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, MANY_TYPOS
+90#VERS#ISSUES###: MANY_TYPOS
