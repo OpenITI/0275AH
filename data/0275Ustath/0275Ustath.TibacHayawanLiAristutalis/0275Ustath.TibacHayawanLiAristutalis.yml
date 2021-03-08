@@ -4,10 +4,10 @@
 10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: [Aristotle, Historia animalium]
-40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -16,6 +16,8 @@
 90#BOOK#COMMENT##: The translation of the Historia Animalium is
     sometimes attributed to Yaḥyā b. Baṭrīq, but since the 1960s it is
     considered more likely that the translation was done by a further
-    unknown  Usṭāth (Eustathius), who translated for al-Kindī (ca. 801-873).
-    See L.S. Filius, The Arabic Version of Aristotle's Historia Animalium:
+    unknown  Usṭāth (Eustathius), who translated for al-Kindī (ca.
+    801-873).
+    See L.S. Filius, The Arabic Version of Aristotle's Historia
+    Animalium:
     Book I-X of Kitāb al-Ḥayawān, pp. 9-
