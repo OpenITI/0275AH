@@ -1,14 +1,10 @@
-00#VERS#CLENGTH##: 1931458
-00#VERS#LENGTH###: 498766
-00#VERS#URI######: 0261Muslim.Sahih.Shamela0001727-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+00#VERS#CLENGTH##:  1931458
+00#VERS#LENGTH###:	498766
+00#VERS#URI######: 	0261Muslim.Sahih.Shamela0001727-ara1
+80#VERS#BASED####: 	http://www.worldcat.org/oclc/1158880746
+80#VERS#COLLATED#	http://www.worldcat.org/oclc/1158880746
+80#VERS#LINKS####:	https://www.noor-book.com/كتاب-2674-صحيح-الامام-مسلم-ت-محمد-فؤاد-عبدالباقي-ط-1-دار-احياء-التراث-العربي-pdf
+90#VERS#ANNOTATOR:	Omar Abdel-Ghaffar + (SHARIAsource-CnC)
+90#VERS#COMMENT##:	The text itself generally corresponds to the printed version. However, the pagination includes repetitions and many "V000P000" that appear next to headings. The annotation system is off because of of the numbering of the hadiths themselves. 
+90#VERS#DATE#####:	26-10-21
+90#VERS#ISSUES###:	PAGINATION
