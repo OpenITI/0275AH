@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://upload.wikimedia.org/wikisource/ar/7/74/التاج_في_أخلاق_الملوك.pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The typist has added some titles. Although they are
-    different from the titles on the margins of the pages in the PDF, they
-    are useful and I tagged them as second-level headers. 2- Missing parts:
-    Page/Line: 20/4; 48/6; 55/11; 118-6-7-8; 134/last line;
+            different from the titles on the margins of the pages in the PDF, they
+            are useful and I tagged them as second-level headers. 2- Missing parts:
+            Page/Line: 20/4; 48/6; 55/11; 118-6-7-8; 134/last line;
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-26
-90#VERS#ISSUES###: MISSING_PARTS
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION
