@@ -1,8 +1,8 @@
 00#BOOK#URI######: 0261AbuHasanCijli.MacrifatThiqat
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: maʿrifŧ al-ṯaqāt min riǧāl ahl al-ʿilm wa-l-ḥadīṯ wa-
+10#BOOK#TITLEA#AR: Maʿrifaŧ al-ṯiqāt min riǧāl ahl al-ʿilm wa-l-ḥadīṯ wa-
     min al-ḍuʿafāʾ wa-ḏikr maḏāhibihim wa-aḫbārihim
-10#BOOK#TITLEB#AR: maʿrifŧ al-ṯaqāt
+10#BOOK#TITLEB#AR: Maʿrifaŧ al-ṯiqāt
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
