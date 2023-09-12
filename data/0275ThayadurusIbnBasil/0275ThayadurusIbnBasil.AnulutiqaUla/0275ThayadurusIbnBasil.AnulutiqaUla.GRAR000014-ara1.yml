@@ -9,5 +9,10 @@
     use consistently)
 90#VERS#COMMENT##: Ed. ʿAbd al-Raḥmān Badawī (1948),  "Manṭiq Arisṭū,
     al-juzʾ al-awwal",  Dirāsāt Islāmiyya vol. 7/1 pp. 103-306.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0275ThayadurusIbnBasil/0275ThayadurusIbnBasil.AnulutiqaUla/0275ThayadurusIbnBasil.AnulutiqaUla.GRAR000014-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

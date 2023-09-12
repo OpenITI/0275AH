@@ -37,5 +37,10 @@
     inside the text and are not part of the structure of the text. 7- A
     problem in METADATA: “مطبعة المدني” is the printing company. The
     publisher is “مكتبة دار العروبة”.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0256ZubayrIbnBakkar/0256ZubayrIbnBakkar.JamharatNasabQuraysh/0256ZubayrIbnBakkar.JamharatNasabQuraysh.Shamela0026525-ara1.completed
 90#VERS#DATE#####: 2019-10-23
-90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, REDUNDNAT_PARTS
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, REDUNDNAT_PARTS, PRIMARY_VERSION, CLEANED_VERSION

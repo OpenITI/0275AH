@@ -10,5 +10,10 @@
 90#VERS#COMMENT##: Ed. John Tytler (1832), The Aphorisms of Hippocrates,
     translated into Arabic by Honain Ben Ishak, Physician to the Caliph
     Motawukkul. Calcutta: The Committee of Public Instruction, 1-65.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0259HunaynIbnIshaq/0259HunaynIbnIshaq.FusulAbuqrat/0259HunaynIbnIshaq.FusulAbuqrat.GRAR000052-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

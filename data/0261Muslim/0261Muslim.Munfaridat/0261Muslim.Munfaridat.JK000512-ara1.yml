@@ -9,5 +9,10 @@
     the correct place. 2- There are a few numbers that don’t include any
     name (they are only a description of a person) or include more than one
     name. I tagged them with an asterisk (i.e. ### $ *).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0261Muslim/0261Muslim.Munfaridat/0261Muslim.Munfaridat.JK000512-ara1.mARkdown
 90#VERS#DATE#####: 2019-10-19
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

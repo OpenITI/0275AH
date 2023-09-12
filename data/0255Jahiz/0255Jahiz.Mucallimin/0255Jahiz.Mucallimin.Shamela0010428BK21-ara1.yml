@@ -15,10 +15,10 @@
     ʿUbayd Allāh b. Ḥassān (unknown; probably 4th C. AH, see intro vol. 3 p.
     13f.).  Edition based on three manuscripts (see vol. 3, introduction,
     pp. 7-12):
-          - B: British Museum, dated 1294/1877
-          - M: Dār al-Kutub al-Miṣriyya, Adab Taymūr no. 19, copy dated
+    - B: British Museum, dated 1294/1877
+    - M: Dār al-Kutub al-Miṣriyya, Adab Taymūr no. 19, copy dated
     1315AH (from an ancient manuscript dated 403AH!)
-          - Ṭ: version printed in the appendix to al-Mubarrad's Kāmil in
+    - Ṭ: version printed in the appendix to al-Mubarrad's Kāmil in
     1323AH (unclear from which manuscript this text was edited) NB: the
     texts in volumes 3 and 4 are only extracts of rasā'il, not the full
     texts! Small discrepancies in the Shamela version with the PDF:
@@ -31,5 +31,10 @@
     21 Parag 2 & 3. (removed by PV)
     - Very small Typos like “قال” instead of “یقول” in Vol 1, P 187, L
     14 (corrected by PV).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0255Jahiz/0255Jahiz.Mucallimin/0255Jahiz.Mucallimin.Shamela0010428BK21-ara1.mARkdown
 90#VERS#DATE#####: 2019-08-02
-90#VERS#ISSUES###: INCOMPLETE_TEXT
+90#VERS#ISSUES###: INCOMPLETE_TEXT, PRIMARY_VERSION, CLEANED_VERSION

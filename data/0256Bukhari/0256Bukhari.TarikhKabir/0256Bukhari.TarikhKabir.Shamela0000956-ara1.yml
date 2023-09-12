@@ -18,6 +18,11 @@
     Although it seems to be a reprint from 2001 of the 1986 edition, 
     it has all the 9 volumes that are in the annotated file 
     (unfortunately with 3 extra volumes).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0256Bukhari/0256Bukhari.TarikhKabir/0256Bukhari.TarikhKabir.Shamela0000956-ara1.completed
 90#VERS#DATE#####: 2019-11-10
 90#VERS#ISSUES###: HTML_TAGS, PAGINATION, MISSING_PARTS,
-    EDITORIAL_SECTIONS, FOOTNOTE
+    EDITORIAL_SECTIONS, FOOTNOTE, PRIMARY_VERSION, CLEANED_VERSION

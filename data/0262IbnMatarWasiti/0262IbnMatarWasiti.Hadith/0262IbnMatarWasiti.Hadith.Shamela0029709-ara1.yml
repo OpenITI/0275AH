@@ -7,9 +7,10 @@
     (pages in PDF:92 ff)
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0262IbnMatarWasiti/0262IbnMatarWasiti.Hadith/0262IbnMatarWasiti.Hadith.Shamela0029709-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

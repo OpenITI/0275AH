@@ -12,5 +12,10 @@
     Kitāb Buqrāṭ al-maʿrūf bi-Qāṭīṭrīūn ay Ḥānūt al-ṭabīb  (Hippocrates: In
     the Surgery)  (Arabic Technical and Scientific Texts 3), W. Heffer and
     Sons, Cambridge, vol. 3, pp. 1-25.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0259HunaynIbnIshaq/0259HunaynIbnIshaq.AbuqratFiHablCalaHabl/0259HunaynIbnIshaq.AbuqratFiHablCalaHabl.GRAR000097-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

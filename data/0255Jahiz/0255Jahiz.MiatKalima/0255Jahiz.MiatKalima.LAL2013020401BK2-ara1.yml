@@ -20,5 +20,10 @@
     and the printed English and Arabic text.
     In the OpenITI version of the text, these paragraph numbers
     are given between square brackets.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0255Jahiz/0255Jahiz.MiatKalima/0255Jahiz.MiatKalima.LAL2013020401BK2-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

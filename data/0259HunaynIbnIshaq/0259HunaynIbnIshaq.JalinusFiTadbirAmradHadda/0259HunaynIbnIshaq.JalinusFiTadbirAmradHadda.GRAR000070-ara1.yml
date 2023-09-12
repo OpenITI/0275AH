@@ -11,5 +11,10 @@
     Medicine, On Cohesive Causes,  On Regimen in Acute Diseases in
     Accordance with the Theories of Hippocrates (Corpus Medicorum Graecorum.
     Supplementum Orientale 2). Berlin: Akademie-Verlag, 76-110.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0259HunaynIbnIshaq/0259HunaynIbnIshaq.JalinusFiTadbirAmradHadda/0259HunaynIbnIshaq.JalinusFiTadbirAmradHadda.GRAR000070-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
