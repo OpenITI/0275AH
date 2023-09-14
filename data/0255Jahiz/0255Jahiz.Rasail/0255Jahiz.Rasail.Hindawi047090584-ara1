@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "0255Jahiz.Rasail.Hindawi47090584",
-    "BookCats": "literature",
-    "BookID": "47090584",
-    "BookTitle": "رسائل الجاحظ: وهي رسائل منتقاة من كتب للجاحظ لم تنشر قبل الآن",
-    "AuthorID": "86407595",
-    "AuthorNam": "الجاحظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 0255Jahiz.Rasail.Hindawi47090584
+#META# Tags: literature
+#META# ID: 47090584
+#META# Title: رسائل الجاحظ: وهي رسائل منتقاة من كتب للجاحظ لم تنشر قبل الآن
+#META# AuthorID: 86407595
+#META# Author: الجاحظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
