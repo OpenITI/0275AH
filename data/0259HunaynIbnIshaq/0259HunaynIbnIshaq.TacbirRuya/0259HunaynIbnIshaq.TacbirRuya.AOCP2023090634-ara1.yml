@@ -13,4 +13,4 @@
     Average transcription confidence: 0.9523555557467309
     small layout fixes by LMN; odd line missed by segmentation model
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: UNCORRECTED_OCR
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
