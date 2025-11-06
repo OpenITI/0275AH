@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0264-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q48703
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abū Ibrāhīm Ismāʿīl b. Yaḥyā (in the Fihrist , Ibrahīm), a pupil of al-S̲h̲āfiʿī, the “champion” of the S̲h̲āfiʿi school of law, was born in 175/791-2 and lived in Egypt.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_5690

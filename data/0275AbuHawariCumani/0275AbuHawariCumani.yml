@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q136709689
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: exact death date unknown; was alive in 272
     (https://alsaidia.com/node/180).

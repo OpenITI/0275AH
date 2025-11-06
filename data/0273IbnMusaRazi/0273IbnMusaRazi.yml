@@ -13,8 +13,9 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: GAS 14.355: "Historian, businessman and father 
+90#AUTH#COMMENT##: GAS 14.355: "Historian, businessman and father
     of the famous Andalusi historian Aḥmad al-Rāzī (...)
     traveled apparently between the eastern part of the Islamic world
     and Sapin as a delegat and businessman."

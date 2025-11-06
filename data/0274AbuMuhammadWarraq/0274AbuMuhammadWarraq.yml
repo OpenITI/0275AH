@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0274-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: GAS 14.356: "Originally from Balkh, he was born in 197/812,
     and settled in Baghdād. He was a traditionist, historian and literator.

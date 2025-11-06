@@ -8,11 +8,12 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: A lost work on the troops of Mūsá b. Nuṣayr, the conqueror 
+90#BOOK#COMMENT##: A lost work on the troops of Mūsá b. Nuṣayr, the conqueror
     of Andalusia. It apparently contained an important historical-geographical part.
     See GAS 14.355f.

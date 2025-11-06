@@ -8,13 +8,14 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: One of the oldest extant books on the conquests. 
+90#BOOK#COMMENT##: One of the oldest extant books on the conquests.
     It contains a long geographical part, in four chapters:
-    Dhikr al-Khiṭaṭ, Dhikr akhā'idh al-Iskandariyya, 
+    Dhikr al-Khiṭaṭ, Dhikr akhā'idh al-Iskandariyya,
     Ziyāda fī al-masjid al-jāmiʿ, Dhikr al-Qaṭā'iʿ.
     See GAS 14.349-353.
