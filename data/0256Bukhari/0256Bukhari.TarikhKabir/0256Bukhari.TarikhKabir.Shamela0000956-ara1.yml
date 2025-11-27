@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 1828756
-00#VERS#LENGTH###: 487545
+00#VERS#CLENGTH##: 1882511
+00#VERS#LENGTH###: 502912
 00#VERS#URI######: 0256Bukhari.TarikhKabir.Shamela0000956-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/235985274
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/235985274
@@ -11,12 +11,12 @@
     without it).  3- PageV07P241-256 have not been typed (according to the
     note of the typist). 4- There is an appendix in PageV08P450.
     Maroussia: the (old) link in the yml file (https://archive.org/details/waq15291)
-    refers to a truncated version with only 7 volumes, and the two missing volumes 
+    refers to a truncated version with only 7 volumes, and the two missing volumes
     are to be found separately under another link (https://archive.org/details/bukhari-kabir_8-9/08_15298/mode/2up)
-    I would like to suggest this archive link: 
+    I would like to suggest this archive link:
     https://archive.org/details/Tarikh_Kabir_Bukhari
-    Although it seems to be a reprint from 2001 of the 1986 edition, 
-    it has all the 9 volumes that are in the annotated file 
+    Although it seems to be a reprint from 2001 of the 1986 edition,
+    it has all the 9 volumes that are in the annotated file
     (unfortunately with 3 extra volumes).
     All paratextual elements
     (introductions, footnotes, indices, ...)
